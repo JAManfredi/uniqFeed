@@ -1,0 +1,544 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"timeSince",
+				"timeSinceTweet"
+			],
+			[
+				"momen",
+				"momentTweetTime"
+			],
+			[
+				"fet",
+				"fetchTime"
+			],
+			[
+				"vardu",
+				"var_dump_pre"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"var",
+				"var_dump_pre"
+			],
+			[
+				"width",
+				"widthRatio"
+			],
+			[
+				"var_dump",
+				"var_dump_pre"
+			],
+			[
+				"orig",
+				"origdocheight"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"return",
+				"returnArray"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"position",
+				"object-position"
+			],
+			[
+				"cach",
+				"cacheddata"
+			],
+			[
+				"sine",
+				"sinceId"
+			],
+			[
+				"create",
+				"createRowHTML"
+			],
+			[
+				"outp",
+				"outputHTML"
+			],
+			[
+				"element",
+				"elementId"
+			],
+			[
+				"since",
+				"sinceId"
+			],
+			[
+				"out",
+				"outputHTML"
+			],
+			[
+				"twe",
+				"tweet"
+			],
+			[
+				"temp",
+				"tempTweetArray"
+			],
+			[
+				"debug",
+				"debug_to_console"
+			],
+			[
+				"twee",
+				"tweetArray"
+			],
+			[
+				"get",
+				"getLastBody"
+			],
+			[
+				"retwet",
+				"retweetedBy"
+			],
+			[
+				"tweet",
+				"tweetArray"
+			],
+			[
+				"tw",
+				"tweet"
+			],
+			[
+				"twet",
+				"tweetArray"
+			],
+			[
+				"error",
+				"errorArray"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"con",
+				"connection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fetchTweets.php",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tweetList.php",
+			"settings":
+			{
+				"buffer_size": 8429,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uniqFeed.css",
+			"settings":
+			{
+				"buffer_size": 2055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "uniqFeed.js",
+			"settings":
+			{
+				"buffer_size": 2032,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/uniqFeed/index.php",
+		"/Applications/MAMP/htdocs/uniqFeed/tweetList.php",
+		"/Applications/MAMP/htdocs/uniqFeed/uniqFeed.js",
+		"/Applications/MAMP/htdocs/uniqFeed/fetchTweets.php",
+		"/Applications/MAMP/htdocs/uniqFeed/uniqFeed.css",
+		"/Applications/MAMP/htdocs/uniqFeed/debugDump.php",
+		"/Applications/MAMP/htdocs/uniqFeed/politicsList.php",
+		"/Applications/MAMP/htdocs/uniqFeed/PoliticsList.php",
+		"/Applications/MAMP/htdocs/uniqFeed/politicsListTweets.php",
+		"/Users/jared.manfredi/Desktop/uniqFeed/politicsListTweets.php",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Users/jared.manfredi/Desktop/politicsListTweets.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"America",
+			"datetime",
+			"convertlinkshr",
+			"convertLinksHref",
+			"got",
+			"goto",
+			"$verified",
+			"var_dum",
+			"345",
+			"375",
+			"margin",
+			"->text",
+			"seper",
+			"seperator",
+			"images/",
+			"image",
+			"images",
+			"debug_to",
+			"debug",
+			"now",
+			"sinceId",
+			"debug_to",
+			"cached data",
+			"sizeof",
+			"gray",
+			"grey",
+			"hashLookup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fetchTweets.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tweetList.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "uniqFeed.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "uniqFeed.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "uniqFeed.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
